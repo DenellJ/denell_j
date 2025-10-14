@@ -1,0 +1,11 @@
+﻿streamlit
+pandas
+numpy
+matplotlib
+plotly
+statsmodels
+reportlab
+openpyxl
+xlsxwriter
+scipy
+cryptography
